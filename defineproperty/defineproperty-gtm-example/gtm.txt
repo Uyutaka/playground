@@ -1,0 +1,7 @@
+<script defer src="https://defineproperty-gtm-example.netlify.app/hoge.js"></script>
+<script>
+  window.HogeInit = function () {
+    console.log('Initializing HogeInit.......');
+    console.log('Done!!!');
+  }
+</script>

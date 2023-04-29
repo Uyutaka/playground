@@ -1,1 +1,7 @@
 # playground
+
+
+| id  | title                   | directory                                 | purpose                                                                                                                                                                                                                                      |
+| --- | ----------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | demo for defineproperty | defineproperty/defineproperty-example     | This demonstration executes a global variable (function) defined in the html script tag only once, regardless of the order in which the scripts are loaded.  The setter of defineProperty() is used to ensure that it is executed only once. [live demo](https://defineproperty-example.netlify.app/) |
+| 2   | demo for defineproperty | defineproperty/defineproperty-gtm-example | Same as above (GTM version) [live demo](https://defineproperty-gtm-example.netlify.app/)                                                                                                                                                                                                                  |
